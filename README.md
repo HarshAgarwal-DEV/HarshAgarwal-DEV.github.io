@@ -1,4 +1,4 @@
-## Hi there, I'm Harsh Agarwal [HarshAgarwal-DEV][website] 👋
+## Hi there, I'm Harsh Agarwal  👋
 <img src="https://github.com/HarshAgarwal-DEV/HarshAgarwal-DEV/blob/master/hi.gif" alt="alt text" width="100" height="100" /><br>
 
 ## I'm a  Software Engineering Student !
